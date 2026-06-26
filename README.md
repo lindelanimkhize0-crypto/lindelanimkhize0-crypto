@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**lindelanimkhize0-crypto/lindelanimkhize0-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Lindelani** — you can call me Linde!
 
-Here are some ideas to get you started:
+I enjoy playing chess, football, reading books, and learning about investing in my free time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on the **Ultimate Data Analyst Bootcamp** (24 hours) on YouTube.
+
+## 🛠️ Tools I Use
+- SQL
+- Power BI
+- Excel
+- Python (Anaconda Navigator, Jupyter Notebook)
+- Azure & AWS *(loading...)*
+
+## 📂 Projects
+- [AirBnB Full Project](#)
+- [Data Cleaning - World Layoffs](#)
+- [Data Cleaning Excel Project](#)
+
+## 📫 How to Reach Me
+- **LinkedIn:** [lindelani-mkhize](https://www.linkedin.com/in/lindelani-mkhize-7b754327a)
+- **Email:** lindelanimkhize0@gmail.com
